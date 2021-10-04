@@ -1,0 +1,77 @@
+
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+
+      #page-lable1 {
+        font-size: 6em;
+      }
+      #page-lable2 {
+        font-size: 2em;
+      }
+
+      .fw-light{
+        font-size: 4em;
+      }
+
+      .mit-projects {
+        font-size: 4em;
+      }
+
+      button.btn { 
+        margin: 10px;    
+      }
+
+/* Start Contact Social Media */
+.fa {
+  padding: 10px;
+  font-size: 50px;  
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 25%;
+}
+ 
+.fa:hover {
+    opacity: 0.7;
+}
+ 
+.fa-github {
+  background:#17202A;
+  color: white;  
+}
+ 
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+ 
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+ 
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+ 
+.p-4 {
+  color:black;
+  text-align: center;
+}
+ 
+/* End Contact Social Media */
+
